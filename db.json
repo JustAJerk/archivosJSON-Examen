@@ -94,5 +94,13 @@
       "fecha": "miércoles, 6 de diciembre de 2023",
       "id": 6
     }
+  ],
+  "asistencias": [
+	{
+	  "id": 1,
+      "nombreAlumno": "Plambi",
+      "asignaturaCodigo": "base_de_datos",
+      "fecha": "miércoles, 6 de diciembre de 2023"
+    }
   ]
 }
