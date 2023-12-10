@@ -102,5 +102,12 @@
       "asignaturaCodigo": "base_de_datos",
       "fecha": "miércoles, 6 de diciembre de 2023"
     }
+  ],
+  "codigosRecuperar": [
+	{
+	  "id": 1,
+      "codigo": 123456,
+	  "correo": "ausky@gmail.com"
+    }
   ]
 }
