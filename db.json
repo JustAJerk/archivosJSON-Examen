@@ -7,7 +7,8 @@
       "role": "docente",
       "password": "bonita",
       "isactive": true,
-      "correo": "ausky@gmail.com"
+      "correo": "ausky@gmail.com",
+	  "codigoRecuperacion": 0,
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "rut": "123456789-K",
       "role": "usuario",
       "correo": "plambi@gmail.com",
-      "isactive": true
+      "isactive": true,
+	  "codigoRecuperacion": 0,
     },
     {
       "username": "Dylan",
@@ -25,7 +27,8 @@
       "role": "usuario",
       "correo": "dy@gmail.com",
       "isactive": true,
-      "id": 3
+      "id": 3,
+	  "codigoRecuperacion": 0,
     }
   ],
   "clases": [
@@ -101,13 +104,6 @@
       "nombreAlumno": "Plambi",
       "asignaturaCodigo": "base_de_datos",
       "fecha": "miércoles, 6 de diciembre de 2023"
-    }
-  ],
-  "codigosRecuperar": [
-	{
-	  "id": 1,
-      "codigo": 123456,
-	  "correo": "ausky@gmail.com"
     }
   ]
 }
