@@ -8,7 +8,7 @@
       "password": "bonita",
       "isactive": true,
       "correo": "ausky@gmail.com",
-	  "codigoRecuperacion": 0,
+	  "codigoRecuperacion": 0
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "role": "usuario",
       "correo": "plambi@gmail.com",
       "isactive": true,
-	  "codigoRecuperacion": 0,
+	  "codigoRecuperacion": 0
     },
     {
       "username": "Dylan",
@@ -28,7 +28,7 @@
       "correo": "dy@gmail.com",
       "isactive": true,
       "id": 3,
-	  "codigoRecuperacion": 0,
+	  "codigoRecuperacion": 0
     }
   ],
   "clases": [
@@ -38,7 +38,7 @@
       "docente": "Ausky",
       "codigo": "base_de_datos",
       "anio": 2023,
-      "semestre": "4° Semestre",
+      "semestre": "4Â° Semestre",
       "horasSemanales": 5
     },
     {
@@ -46,7 +46,7 @@
       "codigo": "lenguaje",
       "docente": "Ausky",
       "anio": 2023,
-      "semestre": "1° Semestre",
+      "semestre": "1Â° Semestre",
       "horasSemanales": 4,
       "id": 2
     },
@@ -55,7 +55,7 @@
       "codigo": "matematicas",
       "docente": "Ausky",
       "anio": 2024,
-      "semestre": "2° Semestre",
+      "semestre": "2Â° Semestre",
       "horasSemanales": 3,
       "id": 3
     }
@@ -94,7 +94,7 @@
     {
       "nombreDocente": "Ausky",
       "asignatura": "BASE DE DATOS",
-      "fecha": "miércoles, 6 de diciembre de 2023",
+      "fecha": "miÃ©rcoles, 6 de diciembre de 2023",
       "id": 6
     }
   ],
@@ -103,7 +103,7 @@
 	  "id": 1,
       "nombreAlumno": "Plambi",
       "asignaturaCodigo": "base_de_datos",
-      "fecha": "miércoles, 6 de diciembre de 2023"
+      "fecha": "miÃ©rcoles, 6 de diciembre de 2023"
     }
   ]
 }
